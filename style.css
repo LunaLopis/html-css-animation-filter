@@ -157,8 +157,9 @@
 }
 
 .ex-9-img:hover {
+    border-radius: 10%;
     filter: grayscale(.6) sepia(.5);
-    transform: scale(2);
+    transform: scale(1.5);
 }
 
 
